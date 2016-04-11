@@ -5,7 +5,7 @@ Features
 ------------
 * Support a variety of resources.
 
-  ![](features.png)
+![](features.png)
 
 Sample
 --------------
