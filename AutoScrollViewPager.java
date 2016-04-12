@@ -18,7 +18,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Admin on 2016/4/11.
+ * Created by huangxy on 2016/4/11.
+ * Origin by https://github.com/GitSmark/AutoScrollViewPager
  */
 public class AutoScrollViewPager<T> extends FrameLayout{
 
