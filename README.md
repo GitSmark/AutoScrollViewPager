@@ -65,15 +65,23 @@ Usage
         public void onPageClicked(int position);
   }
   ```
-  
-5.More usage of the `AutoScrollerViewPager`, Please see the [Sample](https://github.com/GitSmark/AutoScrollViewPager/blob/master/AutoScrollViewPagerSample.rar).
+ 
+6. Finally, don't forget add `uses-permission`.
+   ```xml
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  ```
+ 
+Sample
+--------
+More usage of the `AutoScrollerViewPager`, Please see the [Sample](https://github.com/GitSmark/AutoScrollViewPager/blob/master/AutoScrollViewPagerSample.rar).
 
 Contact
 --------
   Have problem? Just [tweet me](https://twitter.com/huangxy) or [send me an email](mailto:huangxy8023@foxmail.com).
 
 License
-----------
+--------
 
     Copyright 2016 huangxy@GitSmark
 
